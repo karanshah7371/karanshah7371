@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Karan Shah</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on **MERN Stack Web Applications**
+- 🔭 I’m currently working on **Full Stack Web Applications And Python **
 
 - 🌱 I’m currently learning **Web3.js, Blockchain, Solidity, Angular**
 
-- 👯 I’m looking to collaborate on **Full stack web applicatons, Decentralized applications**
+- 👯 I’m looking to collaborate on **Full stack web applicatons,Web Scrapping Tools ,Decentralized applications**
+
+- 👨‍💻 Have a look at [https://www.easyscrape.xyz](https://www.easyscrape.xyz)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/karanshah7371](https://www.github.com/karanshah7371)
 
 - 📝 I co-founded a full service digital studio [https://www.algrowdigital.com/](https://www.algrowdigital.com/)
 
-- 💬 Ask me about **react, nodejs and express**
+- 💬 Ask me about **Python,Javascript,react, nodejs and express**
 
 - 📫 How to reach me **karanshah737@gmail.com**
 
