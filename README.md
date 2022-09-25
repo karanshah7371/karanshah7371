@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **karanshah737@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zjUYx_vLd3dltuIUxemHk8dfpnIFxpEd/view?usp=sharing](https://drive.google.com/file/d/1zjUYx_vLd3dltuIUxemHk8dfpnIFxpEd/view?usp=sharing)
 
 - ⚡ Connect with me **If you like to hire me or If you want any help from me.**
 
