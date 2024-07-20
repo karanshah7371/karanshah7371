@@ -9,8 +9,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://www.github.com/karanshah7371](https://www.github.com/karanshah7371)
 
-- 📝 I co-founded a full service digital studio [https://www.algrowdigital.com/](https://www.algrowdigital.com/)
-
 - 💬 Ask me about **Python,Javascript,react, nodejs and electronics**
 
 - 📫 How to reach me **karanshah737@gmail.com**
